@@ -15,17 +15,18 @@ Skills: HTML / CSSR/EACT / JS /
 
 
 <a href="https://github.com/saif209">
-  <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white&labelColor=181717" height="60" width="60" style="border-radius:50%;">
+  <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white&labelColor=181717" height="100" width="100" style="border-radius:50%;">
 </a>
 <a href="https://www.linkedin.com/in/saif-ahamed-199603303/">
-  <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="60" width="60" style="border-radius:50%;">
+  <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="100" width="100" style="border-radius:50%;">
 </a>
 <a href="https://www.facebook.com/not">
-  <img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" height="60" width="60" style="border-radius:50%;">
+  <img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" height="100" width="100" style="border-radius:50%;">
 </a>
 <a href="https://www.instagram.com/not/">
-  <img src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" height="60" width="60" style="border-radius:50%;">
+  <img src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" height="100" width="100" style="border-radius:50%;">
 </a>
+
 
 
 
