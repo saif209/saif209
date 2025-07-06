@@ -14,10 +14,10 @@ Skills: HTML / CSSR/EACT / JS /
 - 👯 I’m looking to collaborate on GitHub 
 
 
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">](https://github.com/saif209)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">](https://www.linkedin.com/in/saif-ahamed-199603303/)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">](https://www.facebook.com/not)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30">](https://www.instagram.com/not/)
+[<img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white&labelColor=181717" height="30" width="30">](https://github.com/saif209)
+[<img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="30" width="30">](https://www.linkedin.com/in/saif-ahamed-199603303/)
+[<img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" height="30" width="30">](https://www.facebook.com/not)
+[<img src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" height="30" width="30">](https://www.instagram.com/not/)
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
