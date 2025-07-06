@@ -7,7 +7,23 @@
 A backend web developer builds and maintains the server-side logic of websites and applications. They work with databases, APIs, authentication, and server management to ensure smooth data flow and secure, efficient performance. Common technologies include Node.js, Express, MongoDB, and SQL. Backend developers support frontend functionality behind the scenes.
 
 
-Skills: HTML / CSSR/EACT / JS / 
+## 👨‍💻 Skills & Experience
+
+I specialize in web development and design, bringing creative and technical skills together to build responsive, user-friendly websites.
+
+### 🚀 Languages & Tools
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🎨 Design Tools
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning JavaScript 
