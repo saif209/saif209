@@ -1,5 +1,4 @@
-[[![Web Developer]([https://raw.githubusercontent.com/saif209/life-story/main/Wellcome%20(2).png](https://github.com/saif209/life-story/blob/main/Wellcome%20(3).png))](https://github.com/saif209/life-story/blob/main/Wellcome%20(3).png)](https://github.com/saif209/life-story/blob/main/Wellcome%20(3).png)
-
+https://github.com/saif209/life-story/blob/main/Wellcome%20(3).png
 ### Hi there 👋, I am Saif Ahamed
 #### Web Developer
 
