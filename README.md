@@ -12,16 +12,12 @@ A backend web developer builds and maintains the server-side logic of websites a
 <h2 align="left">👨‍💻 Skills & Experience</h2>
 
 <p align="left">
-  ✅ WordPress <br>
+  ✅ HTML <br>
+  ✅ CSS <br>
+  ✅ React <br>
   ✅ JavaScript <br>
-  ✅ PHP <br>
-  ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
-  ✅ Photoshop / Illustrator
+  ✅ Photoshop / Canva
 </p>
-
-### 🎨 Design Tools
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 
 - 🔭 I’m currently working on YouTube 
@@ -29,18 +25,8 @@ A backend web developer builds and maintains the server-side logic of websites a
 - 👯 I’m looking to collaborate on GitHub 
 
 
-<a href="https://github.com/saif209">
-  <img src="https://img.shields.io/badge/-github-181717?style=flat&logo=github&logoColor=white&labelColor=181717" height="100" width="100" style="border-radius:50%;">
-</a>
-<a href="https://www.linkedin.com/in/saif-ahamed-199603303/">
-  <img src="https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" height="100" width="100" style="border-radius:50%;">
-</a>
-<a href="https://www.facebook.com/not">
-  <img src="https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" height="100" width="100" style="border-radius:50%;">
-</a>
-<a href="https://www.instagram.com/not/">
-  <img src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" height="100" width="100" style="border-radius:50%;">
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saif209)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saif-ahamed-199603303//)  
+
 
 
 
