@@ -1,4 +1,7 @@
-![My Banner](https://raw.githubusercontent.com/saif209/life-story/main/welcome-banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saif209/life-story/main/welcome-banner.png" width="800" alt="Banner">
+</p>
+
 
 
 ### Hi there 👋, I am Saif Ahamed
