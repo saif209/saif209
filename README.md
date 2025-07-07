@@ -25,8 +25,21 @@ A backend web developer builds and maintains the server-side logic of websites a
 - 👯 I’m looking to collaborate on GitHub 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saif209)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saif-ahamed-199603303/)
+<a href="https://github.com/saif209" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" 
+       alt="github" 
+       height="40" 
+       width="40" 
+       style="background-color:white; border-radius:50%; padding:5px;">
+</a>
+
+<a href="https://www.linkedin.com/in/saif-ahamed-199603303/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 
+       alt="linkedin" 
+       height="40" 
+       width="40" 
+       style="background-color:white; border-radius:50%; padding:5px;">
+</a>
 
 
 
