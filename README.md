@@ -50,7 +50,6 @@ A backend web developer builds and maintains the server-side logic of websites a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saif209&layout=compact&theme=github_dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saif209&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
