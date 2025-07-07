@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/saif209/life-story/main/Wellcome%20(3).png
+![My Banner](https://raw.githubusercontent.com/saif209/life-story/main/welcome-banner.png)
+
 
 ### Hi there 👋, I am Saif Ahamed
 #### Web Developer
