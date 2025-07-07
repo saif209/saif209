@@ -9,9 +9,9 @@
 A backend web developer builds and maintains the server-side logic of websites and applications. They work with databases, APIs, authentication, and server management to ensure smooth data flow and secure, efficient performance. Common technologies include Node.js, Express, MongoDB, and SQL. Backend developers support frontend functionality behind the scenes.
 
 
-<h2 align="center">👨‍💻 Skills & Experience</h2>
+<h2 align="left">👨‍💻 Skills & Experience</h2>
 
-<p align="center">
+<p align="left">
   ✅ WordPress <br>
   ✅ JavaScript <br>
   ✅ PHP <br>
