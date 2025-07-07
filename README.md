@@ -30,7 +30,7 @@ A backend web developer builds and maintains the server-side logic of websites a
        alt="github" 
        height="40" 
        width="40" 
-       style="background-color:white; border-radius:50%; padding:5px;">
+       style="background-color:#e0e0e0; border-radius:50%; padding:5px;">
 </a>
 
 <a href="https://www.linkedin.com/in/saif-ahamed-199603303/" target="_blank">
@@ -38,8 +38,9 @@ A backend web developer builds and maintains the server-side logic of websites a
        alt="linkedin" 
        height="40" 
        width="40" 
-       style="background-color:white; border-radius:50%; padding:5px;">
+       style="background-color:#e0e0e0; border-radius:50%; padding:5px;">
 </a>
+
 
 
 
