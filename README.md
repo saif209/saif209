@@ -53,7 +53,7 @@ A backend web developer builds and maintains the server-side logic of websites a
 [![trophy](https://github-profile-trophy.vercel.app/?username=saif209&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/saif209/contributions?format=svg&private=true)  
+
  
 
 
