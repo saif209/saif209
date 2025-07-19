@@ -16,6 +16,9 @@ A backend web developer builds and maintains the server-side logic of websites a
   ✅ CSS <br>
   ✅ React <br>
   ✅ JavaScript <br>
+  ✅ Node.js <br>
+  ✅ Express.js <br>
+  ✅ MongoDB <br>
   ✅ Photoshop / Canva
 </p>
 
